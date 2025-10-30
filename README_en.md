@@ -12,7 +12,9 @@ An intelligent navigation and assistance system designed for visually impaired i
 ---
 
 <img src="assets/images/e8dec4a6-8fa6-4d94-bd66-4e9864b67daf_en.png">
-<img src="assets/images/bc7d1aac-a9e9-4ef8-9d67-224708d0c9fd_en.png">
+
+<img src="assets/images/bc7d1aac-a9e9-4ef8-9d67-224708d0c9fd_en2.png">
+
 <img src="assets/images/6dd19750-57af-4560-a007-9a7059956b53_en.png">
 
 ## 📋 Table of Contents
