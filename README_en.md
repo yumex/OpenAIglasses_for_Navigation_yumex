@@ -5,28 +5,28 @@
 An intelligent navigation and assistance system designed for visually impaired individuals, integrating tactile-path navigation, crosswalk assistance, object recognition, and real-time voice interaction.  
 ⚠️ *This project is for research and educational purposes only. Do not use it directly with visually impaired users without professional supervision.*
 
-[Features](#features) • [Quick Start](#quick-start) • [System Architecture](#system-architecture) • [Usage Guide](#usage-guide) • [Developer Documentation](#developer-documentation)
+[Features](#-features) • [Quick Start](#-quick-start) • [System Architecture](#-system-architecture) • [User Guide](#-user-guide) • [Developer Documentation](#-developer-documentation)
 
 </div>
 
 ---
 
-<img width="2481" height="3508" alt="1" src="https://github.com/user-attachments/assets/e8dec4a6-8fa6-4d94-bd66-4e9864b67daf" />
-<img width="2480" height="3508" alt="2" src="https://github.com/user-attachments/assets/bc7d1aac-a9e9-4ef8-9d67-224708d0c9fd" />
-<img width="2481" height="3508" alt="4" src="https://github.com/user-attachments/assets/6dd19750-57af-4560-a007-9a7059956b53" />
+<img src="assets/images/e8dec4a6-8fa6-4d94-bd66-4e9864b67daf_en.png">
+<img src="assets/images/bc7d1aac-a9e9-4ef8-9d67-224708d0c9fd_en.png">
+<img src="assets/images/6dd19750-57af-4560-a007-9a7059956b53_en.png">
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [System Requirements](#system-requirements)
-- [Quick Start](#quick-start)
-- [System Architecture](#system-architecture)
-- [Usage Guide](#usage-guide)
-- [Configuration](#configuration)
-- [Developer Documentation](#developer-documentation)
-- [FAQ](#faq)
+- [Features](#-features)
+- [System Requirements](#-system-requirements)
+- [Quick Start](#-quick-start)
+- [System Architecture](#-system-architecture)
+- [Usage Guide](#-user-guide)
+- [Configuration](#-configuration-guide)
+- [Developer Documentation](#-developer-documentation)
+- [FAQ](#-faq)
 - [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
+- [License](#-license)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -510,6 +510,15 @@ python test_traffic_light.py
 python test_recorder.py
 ```
 
+## ❓ FAQ
+TBD - The Original Chinese version has it in the Table of Contents but no actual section for this.
+
+## Contribution Guidelines
+TBD - The Original Chinese version has it in the Table of Contents but no actual section for this.
+
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+TBD - The Original Chinese version has it in the Table of Contents but no actual section for this.
